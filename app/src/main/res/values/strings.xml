@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MADFINAL</string>
+    <string-array name="user_id">
+        <item>Harsha</item>
+        <item>Vishnu</item>
+        <item>Fayaz</item>
+        <item>Manohar</item>
+        <item>Shilpa</item>
+        <item>Kamal</item>
+    </string-array>
+    <string-array name="desc">
+        <item> HelloHarsha</item>
+        <item>Hello Vishnu</item>
+        <item>Hello Fayaz</item>
+        <item>Hello Manohar</item>
+        <item>Hello Shilpa</item>
+        <item>Hello Kamal</item>
+    </string-array>
+
+</resources>
